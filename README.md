@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://github.com/MohdShariq14/MohdShariq14/blob/main/githubBanner.jpeg" />
 </p>
-<p align="center">
-  <img src="https://github.com/MohdShariq14/MohdShariq14/blob/main/banner.jpeg" alt="logo" />
-</p>
 <h1 align="center">Hi 👋, I'm Mohd Shariq</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
