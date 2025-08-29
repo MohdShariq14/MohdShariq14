@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohdShariq14&show_icons=true&locale=en" alt="MohdShariq14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdShariq14&" alt="MohdShariq14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdShariq14&show_icons=true&locale=en&layout=compact" alt="MohdShariq14" /></p>
 
 
